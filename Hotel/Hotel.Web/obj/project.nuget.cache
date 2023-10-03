@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rHqtEl4DDbYJ7F3Bph3G5lhkh4JWry9CufZWZlb3c9O+SOKLqPV+zcQwunEMVcGn1TcEOVe0avoIH2FhEcnWdg==",
+  "dgSpecHash": "NsewQcXxwAFupCrShavM/Hh5aSUy6br8l1gkLd30DoeqpoQ52Dc669/LT4X7JJWZeKxh8TUBqF2jowBQ95cc/w==",
   "success": true,
-  "projectFilePath": "C:\\BackcupHotel\\backcupHotel\\Hotel\\Hotel.Web\\Hotel.Web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\daria\\OneDrive\\Documents\\ITLA\\C4\\Programacion 2\\FullStack - Francis\\backcupHotel\\Hotel\\Hotel.Web\\Hotel.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\daria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\daria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\daria\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

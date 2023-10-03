@@ -6,6 +6,7 @@ namespace Hotel.Domain.Core
 {
     public class BaseEntity
     {
+        // Son campos que se repiten en todas las tablas
         public string? Status { get; set; }
         public DateTime RegistrationDate { get; set; }
         public int CreationUserId { get; set; }
