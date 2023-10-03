@@ -7,7 +7,6 @@ namespace Hotel.Domain.Repository
 {
     public interface IBaseRepository<TEntity> where TEntity : class
     {
-        // No lo entiendo
         void Save(TEntity entity);
         void Update(TEntity entity);
         void Remove(TEntity entity);
